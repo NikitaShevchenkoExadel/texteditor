@@ -1,0 +1,10 @@
+texteditor\BufferUtils.class
+texteditor\LineParser.class
+texteditor\ParsedCommand.class
+texteditor\DefaultBuffer.class
+texteditor\Application.class
+texteditor\AbstractBuffer.class
+texteditor\EditCommand.class
+texteditor\Commands.class
+texteditor\Buffer.class
+texteditor\BufferException.class
